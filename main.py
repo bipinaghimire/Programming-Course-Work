@@ -79,7 +79,7 @@ Middle_name = Entry(Entry_frame_details, font='Cambria 15 italic', width=22, bor
 
 last_name = Entry(Entry_frame_details, font='Cambria 15 italic', width=22, borderwidth=5).place(x=720,y=15)
 
-age = Entry(Entry_frame_details, font='Cambria 15 italic', width=20, borderwidth=5)
+age = Entry(Entry_frame_details, font='Cambria 15 italic', width=20, borderwidth=5).place(x=-120,y=65)
 
 address = Entry(Entry_frame_details, font='Cambria 15 italic', width=20, borderwidth=5)
 
